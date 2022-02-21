@@ -1,2 +1,2 @@
 # Java-Poker
-Fully Functioning Poker Game Made With Java
+Fully Functioning Poker Game Made SOLELY Java
